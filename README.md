@@ -14,7 +14,7 @@
 
 港股公司详情页抓取代码为stock_hk.py
 
-美股公司详情页抓取代码为stock_us.pyus
+美股公司详情页抓取代码为stock_us.py
 
 英股公司详情页抓取代码为stock_uk.py
 
