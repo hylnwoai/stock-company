@@ -1,4 +1,4 @@
-#去掉抓取下来的默认图片default.png
+# 去掉抓取下来的默认图片default.png
 
 import requests
 import time
