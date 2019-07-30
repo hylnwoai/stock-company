@@ -13,8 +13,8 @@
 
 注：港股 和 美英股的公司详情页布局不一致
 
-港股公司详情页抓取代码为stock_company_hk.py
+港股公司详情页抓取代码为company_hk.py
 
-美股公司详情页抓取代码为stock_company_us&uk.py
+美股公司详情页抓取代码为company_us&uk.py
 
 
